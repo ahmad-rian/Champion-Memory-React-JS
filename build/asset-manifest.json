@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aec046a4.css",
+    "main.js": "/static/js/main.9a229143.js",
+    "static/js/787.c2331032.chunk.js": "/static/js/787.c2331032.chunk.js",
+    "static/media/pomegranate.png": "/static/media/pomegranate.9fbe6077d3cee31c1537.png",
+    "static/media/pineapple.png": "/static/media/pineapple.af8103226a66066eca59.png",
+    "static/media/lemon.png": "/static/media/lemon.244a2273773d88210140.png",
+    "static/media/carrot.png": "/static/media/carrot.3e53701ba74aca726130.png",
+    "static/media/grape.png": "/static/media/grape.30ad09c635330adb0538.png",
+    "static/media/watermelon.png": "/static/media/watermelon.a7f28551aaef0e63a38c.png",
+    "static/media/background.png": "/static/media/background.864adb1ec14333357b1a.png",
+    "static/media/pear.png": "/static/media/pear.533f8855a9b07a80dff0.png",
+    "static/media/strawberry.png": "/static/media/strawberry.f04ee8fbe32d30aae894.png",
+    "static/media/kiwi.png": "/static/media/kiwi.2d5881c790e92603d6e2.png",
+    "static/media/apple.png": "/static/media/apple.b343fb7e0d7a479a878a.png",
+    "static/media/banana.png": "/static/media/banana.7802354af594118a68b9.png",
+    "static/media/orange.png": "/static/media/orange.23d7b214a9a08485a067.png",
+    "static/media/memory-game-logo.png": "/static/media/memory-game-logo.de6cc1de341f90deb172.png",
+    "static/media/raspberry.png": "/static/media/raspberry.7eaf94a7507d0b3e835a.png",
+    "static/media/blackberry.png": "/static/media/blackberry.1d552a65235817b3a4f5.png",
+    "index.html": "/index.html",
+    "main.aec046a4.css.map": "/static/css/main.aec046a4.css.map",
+    "main.9a229143.js.map": "/static/js/main.9a229143.js.map",
+    "787.c2331032.chunk.js.map": "/static/js/787.c2331032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec046a4.css",
+    "static/js/main.9a229143.js"
+  ]
+}
